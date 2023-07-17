@@ -5,6 +5,9 @@ from turtle import Shape, position, shapesize, width
 import cv2
 import mediapipe
 
+print("dd")
+print("wonking")
+print("finish")
 
 camera = cv2.VideoCapture(0)
 mpDraw= mediapipe.solutions.drawing_utils
